@@ -28,3 +28,13 @@ This first image shows our T-Test conducted across all lots
 
 <img width="622" alt="Screen Shot 2021-01-22 at 7 49 07 PM" src="https://user-images.githubusercontent.com/68168883/105571409-9464c980-5d1d-11eb-8f2e-00dae0e38939.png">
 
+The next image shows our T-Test conducted for lot 1
+
+
+Next we look at the T-Test for lot 2
+
+
+And finally we look at the T-test that was done for lot 3
+
+
+
