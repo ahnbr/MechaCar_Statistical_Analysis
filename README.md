@@ -20,3 +20,4 @@
 
 * When we look at lots 1-3, it is very clear that lot 3 has an extreme amount of variance that exceeds the criteria that are required. On the otherhand, lots 1-2 fall within the parameters that we were asked for.
 
+<img width="637" alt="Screen Shot 2021-01-22 at 8 31 31 PM" src="https://user-images.githubusercontent.com/68168883/105571346-48b22000-5d1d-11eb-9567-22258857cb8b.png">
