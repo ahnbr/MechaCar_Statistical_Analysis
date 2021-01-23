@@ -40,4 +40,6 @@ And finally we look at the T-test that was done for lot 3
 
 <img width="621" alt="Screen Shot 2021-01-22 at 7 49 47 PM" src="https://user-images.githubusercontent.com/68168883/105571466-fe7d6e80-5d1d-11eb-8650-7b051613c449.png">
 
+Based on our p-values for lots 1-3, we are unable to reject the null hypothesis and thus the true mean could in fact be 1500 psi. 
 
+## Deliverable 4 - Design a Study Comparing the MechaCar to the Competition
