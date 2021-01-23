@@ -42,4 +42,16 @@ And finally we look at the T-test that was done for lot 3
 
 Based on our p-values for lots 1-3, we are unable to reject the null hypothesis and thus the true mean could in fact be 1500 psi. 
 
-## Deliverable 4 - Design a Study Comparing the MechaCar to the Competition
+## Deliverable 4 - MechaCar vs Competition
+
+* For people who know a lot about cars and even for those that don't, there are few things that seem to resonate more than horsepower and and miles per gallon. It seems ingrained that we not only want a super powerful car but an efficient one as well and so these 2 metrics would seem to be ones that potential purchasers would be interested (whether rightly or not is a separate issue). Given the focus on the environment, miles per gallon would be a metric that would directly be attributed to fuel effiency and, for lack of better words, greenness. 
+
+* Our null hyptohesis would state that: the statistical difference between the horsepower provided by the MechaCar would not be stastically significant from the competition.
+* The alternative hypothesis would state that: in fact there is NOT a statsistical significantly difference between the MechaCar and its competitors with regards to horsepower. 
+* The test we would run to examine statistical significance would be a T-test because we are looking at 2 specific categorical metrics. 
+
+* The next thing we want to consider is fuel efficiency for these cars. 
+
+* Our null hypothesis would state that: the mean fuel efficiency between the MechaCar and its competitors is not significantly different.
+* The alternative hypothesis would state that: in fact the mean fuel efficiency between the MechaCar and its competitors is in fact significantly different.
+* To test this hypothesis, I believe that an ANOVA test would provide us with the best results because we must consider a variety of factors and thus, an analysis of the variance would appear to be the most fitting. 
